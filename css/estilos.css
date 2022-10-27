@@ -1,10 +1,16 @@
 body{background-color: #FCF3CF ; cursor: pointer;font-family:inherit;}
-.blancoletra {color: #B03A2E ;font-style: italic; text-decoration: underline; text-align: center; font-size: xxx-large}
+#blancoletra {color: #B03A2E ;font-style: italic; text-decoration: underline; text-align: center; font-size: xxx-large}
 .letramarron {color: #784212; font-style: oblique;text-decoration: underline; font-size: xx-large}
 .introduccion {color: #641E16; font-style: normal;font-size: large; text-align: justify;}
-.subrayado {text-decoration: underline; color: }
+.subrayado {text-decoration: underline; text-align: center;}
+.subrayadosolo { text-decoration: underline;}
 .centrado {text-align: center; color: #6C3483; font-style: oblique;}
 .tamaño {font-size: medium}
 .tamañomayor {font-size: large}
 .blancocentrado {color: #1D8348; text-decoration: underline; text-align: center;}
 .textohistoria {font-size: large; text-align: justify;}
+.enlaces{font-style: oblique; text-align: center;}
+.twitterlogo {width: 50px}
+.facebooklogo {width: 50px}
+.instagramlogo {width: 50px}
+.whatsapplogo {width: 50px; position:relative; float: right;margin: 12px; text-decoration: none;  font-size: 14px; padding: 22px;}
