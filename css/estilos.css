@@ -1,4 +1,4 @@
-body{background-color: #FCF3CF ; cursor: pointer;font-family:inherit;}
+body{background-color: #FCF3CF ; cursor: pointer;font-family:inherit; display: flex; flex-wrap: wrap;}
 #blancoletra {color: #B03A2E ;font-style: italic; text-decoration: underline; text-align: center; font-size: xxx-large}
 .letramarron {color: #784212; font-style: oblique;text-decoration: underline; font-size: xx-large}
 .introduccion {color: #641E16; font-style: normal;font-size: large; text-align: justify;}
@@ -14,3 +14,13 @@ body{background-color: #FCF3CF ; cursor: pointer;font-family:inherit;}
 .facebooklogo {width: 50px}
 .instagramlogo {width: 50px}
 .whatsapplogo {width: 50px; position:relative; float: right;margin: 12px; text-decoration: none;  font-size: 14px; padding: 22px;}
+
+.titulazo {color: #1ABC9C; font-size: 300%; text-align: center;}
+.loguito {width: 80px; order: -2}
+.tituloprincipal { display: flex; justify-content: center; align-items: flex-start; justify-content: space-around;}
+
+.pieprincipal { display: flex; justify-content: center; align-items: flex-start; justify-content: space-around;
+.mapita {order: -1}
+.desarrollador {order: -1; font-style: italic;font-size: medium; text-align: center;}
+.redessociales2 {order: 0}
+}
